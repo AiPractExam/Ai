@@ -1,0 +1,14 @@
+sudo apt-get install python3-rpi.gpio //7seg
+ 
+sudo pip3 install telepot //telegram
+
+sudo pip3 install adafruit-ads1x15
+sudo apt-get install python3-matplotlib
+sudo pip3 install drawnow
+
+//oscilloscope
+
+
+
+sudo pip3 install pynmea2
+//gps
